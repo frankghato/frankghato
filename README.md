@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frankghato
 - 👀 I’m interested in ... programming, game development, web development
-- 🌱 I’m currently learning ... web development 
+- 🌱 I’m currently learning ... web development and C#
 - 💞️ I’m looking to collaborate on ... anything
 - 📫 How to reach me ... through email at frankagatto98@gmail.com or frank.gatto@temple.edu
 
